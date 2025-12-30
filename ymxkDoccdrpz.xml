@@ -1,24 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ymxkDoc>
-  <ymxkDocversion>25.1.11.1</ymxkDocversion>
-  <ymxkDocGsdate>2025年11月10日</ymxkDocGsdate>
+  <ymxkDocversion>25.1.12.2</ymxkDocversion>
+  <ymxkDocGsdate>2025年12月29日</ymxkDocGsdate>
   <ymxkDocnet>https://download.visualstudio.microsoft.com/download/pr/014120d7-d689-4305-befd-3cb711108212/0307177e14752e359fde5423ab583e43/ndp48-devpack-enu.exe</ymxkDocnet>
   <ymxkDocEcex>https://zebe-public-resource.oss-cn-beijing.aliyuncs.com</ymxkDocEcex>
   <ymxkDocEcexT>/site/cdrvba/dll/ymxkdoc/ecut</ymxkDocEcexT>
   <ymxkDocEcTtue>false</ymxkDocEcTtue>
   <ymxkDocTs>欢迎使用本软件,仅供个人免费使用</ymxkDocTs>
   <ymxkDocTs>网址:www.ymxkDoc.cn/ www.ymxkDoc.com</ymxkDocTs>
-  <ymxkDocTs> 25.1.11.1 </ymxkDocTs>
+  <ymxkDocTs> 25.1.12.2 </ymxkDocTs>
 
   <ymxkNewDocTs>
-    <tsSTring>最新版本：25.1.11.1 更新时间：2025/11/10</tsSTring>
-      <tsToolp>最新版本：25.1.11.1 更新时间：2025/11/10</tsToolp>
+    <tsSTring>最新版本：25.1.12.2 更新时间：2025/12/29</tsSTring>
+      <tsToolp>最新版本：25.1.12.2 更新时间：2025/12/29</tsToolp>
 　   <tsURL>www.ymxkdoc.com</tsURL>
   </ymxkNewDocTs>
 <ymxkDocNew>
 
+最新版本：25.1.12.2更新时间：2025年12月29日
 
-最新版本：25.1.11.1更新时间：2025年11月10日
+1.置入图片右健支持更多，如网页图下载链接
+2.置入图片功能支持图文分开加，先加图，调合适了再加字
+3.颜色提取工具右健支持仅显示部分类型
+4. 颜色提取工具支持仅更换格式
+5.截图功能如相交或相邻的只标注外框尺寸；
+
+版本：25.1.12.1更新时间：2025年12月2日
+1.略
+
+版本：25.1.11.1更新时间：2025年11月10日
 1.优化文字查找替换功能，提升速度及精度；
 2.二维码功能增加直接图片裁剪；
 3.导图增加默认目录同源文件（更多设置里选择）；
