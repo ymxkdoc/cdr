@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ymxkDoc>
-  <ymxkDocversion>26.0.1.3</ymxkDocversion>
-  <ymxkDocGsdate>2026年1月31日</ymxkDocGsdate>
+  <ymxkDocversion>26.1.3.1</ymxkDocversion>
+  <ymxkDocGsdate>2026年3月21日</ymxkDocGsdate>
   <ymxkDocnet>https://download.visualstudio.microsoft.com/download/pr/014120d7-d689-4305-befd-3cb711108212/0307177e14752e359fde5423ab583e43/ndp48-devpack-enu.exe</ymxkDocnet>
   <ymxkDocEcex></ymxkDocEcex>
   <ymxkDocEcexT></ymxkDocEcexT>
@@ -11,11 +11,23 @@
   <ymxkDocTs> 26.0.1.3 </ymxkDocTs>
 
   <ymxkNewDocTs>
-    <tsSTring>最新版本：26.0.1.3 更新时间：2026/01/31</tsSTring>
-      <tsToolp>最新版本：26.0.1.3 更新时间：2026/01/31</tsToolp>
+    <tsSTring>最新版本：26.1.3.1 更新时间：2026/03/21</tsSTring>
+      <tsToolp>最新版本：26.1.3.1 更新时间：2026/03/21</tsToolp>
+　   <tsURL>www.ymxkdoc.com</tsURL>
+  </ymxkNewDocTs>
+    <ymxkNewDocTs>
+    <tsSTring>喷印联盟YMXK插件QQ群:227997833</tsSTring>
+      <tsToolp>喷印联盟YMXK插件QQ群:227997833</tsToolp>
 　   <tsURL>www.ymxkdoc.com</tsURL>
   </ymxkNewDocTs>
 <ymxkDocNew>
+最新版本：26.1.3.1更新时间：2026年3月21日
+1.优化相同查找，支持保存预设，增加不同选项
+2.优化分割图新（新），画内添加点时逻辑问题
+3.调整尺寸功能增加缩放功能.
+4.样式功能，调整顺序，支持复制表格内容
+5.素材工具支持拖入式转入CDR
+6.其他发现的一些小问题（忘记了）.
   
 版本：26.0.1.3更新时间：2026年01月31日
 本版本测试版本
