@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ymxkDoc>
-  <ymxkDocversion>26.1.3.1</ymxkDocversion>
-  <ymxkDocGsdate>2026年3月21日</ymxkDocGsdate>
+  <ymxkDocversion>26.1.5.1</ymxkDocversion>
+  <ymxkDocGsdate>2026年5月6日</ymxkDocGsdate>
   <ymxkDocnet>https://download.visualstudio.microsoft.com/download/pr/014120d7-d689-4305-befd-3cb711108212/0307177e14752e359fde5423ab583e43/ndp48-devpack-enu.exe</ymxkDocnet>
   <ymxkDocEcex></ymxkDocEcex>
   <ymxkDocEcexT></ymxkDocEcexT>
@@ -11,8 +11,8 @@
   <ymxkDocTs> 26.0.1.3 </ymxkDocTs>
 
   <ymxkNewDocTs>
-    <tsSTring>最新版本：26.1.3.1 更新时间：2026/03/21</tsSTring>
-      <tsToolp>最新版本：26.1.3.1 更新时间：2026/03/21</tsToolp>
+    <tsSTring>最新版本：26.1.5.1 更新时间：2026/05/06</tsSTring>
+      <tsToolp>最新版本：26.1.5.1 更新时间：2026/05/06</tsToolp>
 　   <tsURL>www.ymxkdoc.com</tsURL>
   </ymxkNewDocTs>
     <ymxkNewDocTs>
@@ -21,7 +21,16 @@
 　   <tsURL>www.ymxkdoc.com</tsURL>
   </ymxkNewDocTs>
 <ymxkDocNew>
-最新版本：26.1.3.1更新时间：2026年3月21日
+最新版本：26.1.5.1更新时间：2026年5月6日
+1.曲线工具增加根据圆弧画圆形
+2.曲线工具增加三角形画内圆
+3.优化色板功能
+4.增加透视裁剪图片工具.
+  
+版本：26.1.4.1更新时间：2026年3月21日
+略.. 
+
+版本：26.1.3.1更新时间：2026年3月21日
 1.优化相同查找，支持保存预设，增加不同选项
 2.优化分割图新（新），画内添加点时逻辑问题
 3.调整尺寸功能增加缩放功能.
