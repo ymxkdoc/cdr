@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ymxkDoc>
-  <ymxkDocversion>26.1.7.2</ymxkDocversion>
-  <ymxkDocGsdate>2026年7月18日</ymxkDocGsdate>
+  <ymxkDocversion>26.1.8.1</ymxkDocversion>
+  <ymxkDocGsdate>2026年8月6日</ymxkDocGsdate>
   <ymxkDocnet>https://download.visualstudio.microsoft.com/download/pr/014120d7-d689-4305-befd-3cb711108212/0307177e14752e359fde5423ab583e43/ndp48-devpack-enu.exe</ymxkDocnet>
   <ymxkDocEcex></ymxkDocEcex>
   <ymxkDocEcexT></ymxkDocEcexT>
   <ymxkDocEcTtue>false</ymxkDocEcTtue>
   <ymxkDocTs>欢迎使用本软件,仅供个人免费使用</ymxkDocTs>
   <ymxkDocTs>网址:www.ymxkDoc.cn/ www.ymxkDoc.com</ymxkDocTs>
-  <ymxkDocTs> 26.1.7.2</ymxkDocTs>
+  <ymxkDocTs> 26.1.8.1</ymxkDocTs>
 
   <ymxkNewDocTs>
-    <tsSTring>最新版本：26.1.7.2 更新时间：2026/07/18</tsSTring>
-      <tsToolp>最新版本：26.1.7.2 更新时间：2026/07/18</tsToolp>
+    <tsSTring>最新版本：26.1.8.1更新时间：2026/08/06</tsSTring>
+      <tsToolp>最新版本：26.1.8.1 更新时间：2026/08/06</tsToolp>
 　   <tsURL>www.ymxkdoc.com</tsURL>
   </ymxkNewDocTs>
     <ymxkNewDocTs>
@@ -21,8 +21,14 @@
 　   <tsURL>www.ymxkdoc.com</tsURL>
   </ymxkNewDocTs>
 <ymxkDocNew>
-
-最新版本：26.1.7.2更新时间：2026年7月18日
+  
+最新版本：26.1.8.1更新时间：2026年8月6日
+1.增加素材工具(新），保留原有素材工具，新版可以导入旧版数据
+2.导图中的添加标注，增加四角标注，编号标注，调整左右距离。
+3.增加AI对话功能
+4.修复快速截图完整模式无图。
+  
+版本：26.1.7.2更新时间：2026年7月18日
 1.重写尺寸标注，解决历史遗留问题
 2.优化ai生图接口，更好支持openai接口
 3.增加矢量图标功能（需联网使用）
