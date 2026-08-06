@@ -13,30 +13,30 @@
   <ymxkNewDocTs>
     <tsSTring>最新版本：26.1.8.1更新时间：2026/08/06</tsSTring>
       <tsToolp>最新版本：26.1.8.1 更新时间：2026/08/06</tsToolp>
-　   <tsURL>www.ymxkdoc.com</tsURL>
+     <tsURL>www.ymxkdoc.com</tsURL>
   </ymxkNewDocTs>
     <ymxkNewDocTs>
     <tsSTring>喷印联盟YMXK插件QQ群:227997833</tsSTring>
       <tsToolp>喷印联盟YMXK插件QQ群:227997833</tsToolp>
-　   <tsURL>www.ymxkdoc.com</tsURL>
+     <tsURL>www.ymxkdoc.com</tsURL>
   </ymxkNewDocTs>
       <ymxkNewDocTs>
     <tsSTring>增加素材工具(新）</tsSTring>
       <tsToolp>增加素材工具(新）</tsToolp>
-　   <tsURL>www.ymxkdoc.com</tsURL>
+     <tsURL>www.ymxkdoc.com</tsURL>
   </ymxkNewDocTs>
         <ymxkNewDocTs>
     <tsSTring>增加AI对话功能</tsSTring>
       <tsToolp>增增加AI对话功能</tsToolp>
-　   <tsURL>www.ymxkdoc.com</tsURL>
+     <tsURL>www.ymxkdoc.com</tsURL>
   </ymxkNewDocTs>
           <ymxkNewDocTs>
     <tsSTring>修复快速截图完整模式无图</tsSTring>
       <tsToolp>修复快速截图完整模式无图</tsToolp>
-　   <tsURL>www.ymxkdoc.com</tsURL>
+     <tsURL>www.ymxkdoc.com</tsURL>
   </ymxkNewDocTs>
 <ymxkDocNew>
-  
+<![CDATA[
 最新版本：26.1.8.1更新时间：2026年8月6日
 1.增加素材工具(新），保留原有素材工具，新版可以导入旧版数据
 2.导图中的添加标注，增加四角标注，编号标注，调整左右距离。
@@ -429,6 +429,7 @@
 二、修复图片处理错误问题
 三、增加转换图片只换模式不改分辨率
 四、增加周长面积计算
+]]>
   </ymxkDocNew>
 
 </ymxkDoc>
